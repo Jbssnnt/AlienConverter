@@ -1,0 +1,5 @@
+C:\Users\Jacob\Desktop\AlienConverter\AlienConverter\bin\Debug\AlienConverter.exe
+C:\Users\Jacob\Desktop\AlienConverter\AlienConverter\bin\Debug\AlienConverter.pdb
+C:\Users\Jacob\Desktop\AlienConverter\AlienConverter\obj\x86\Debug\AlienConverter.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\AlienConverter\AlienConverter\obj\x86\Debug\AlienConverter.exe
+C:\Users\Jacob\Desktop\AlienConverter\AlienConverter\obj\x86\Debug\AlienConverter.pdb
